@@ -1,4 +1,4 @@
-# web-mative
+# web-native
 
  Transform aplication web in native using electron
 
