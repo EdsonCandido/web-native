@@ -1,0 +1,13 @@
+{
+  "name": "web-native",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Edson Cândido <edson.c.a.j@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^19.0.10"
+  }
+}
